@@ -2,9 +2,9 @@
 
 # &lt;smart-listbox&gt;
 
-[Live Demo ↗](https://htmlelements.com/demos/l/)
+[Live Demo ↗](https://htmlelements.com/demos/listbox/)
 |
-[Documentation ↗](https://www.htmlelements.com/docs/)
+[Documentation ↗](https://www.htmlelements.com/docs/listbox/)
 |
 [Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smarthtmlelements-core)
 
@@ -34,7 +34,7 @@
  </smart-list-box>
 ```
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-listbox/master/smart-listbox.png" alt="Screenshot of smart-listbox, using the Material theme">](https://htmlelements.com/demos/listbox)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-listbox/master/smart-listbox.gif" alt="Screenshot of smart-list-box, using the Material theme">](https://htmlelements.com/demos/listbox)
 
 ## Getting Started
 
